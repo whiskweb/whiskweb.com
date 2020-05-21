@@ -1,3 +1,3 @@
 # Hi, Welcome to WhiskWeb
-We provide fast, accessible, and affordable websites
+We provide affordable, accessible, and agile websites
 tailored to small and local businesses.
