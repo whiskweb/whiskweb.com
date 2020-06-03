@@ -2362,6 +2362,8 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+    max-width: 100%;
+    height: auto;
 	}
 
 		.image img {
@@ -2391,8 +2393,9 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
-			width: 100%;
+      position: static;
+			margin: auto;
+      width: 50%;
 		}
 
 			.image.fit img {
